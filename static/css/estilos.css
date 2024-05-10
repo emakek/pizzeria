@@ -1,0 +1,57 @@
+
+    body {
+        background-image: url('pizeria5.jpg') ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        
+    }
+    .menu-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    h1 {
+        text-align: center;
+        color: #ffffff;
+    }
+    h2 {
+        color: #ffffff;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 10px;
+        color: #ffffff;
+    }
+
+    p {
+        color: #ffffff;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h3 {
+        color: rgb(15, 9, 10);
+    }
+    
+    .card {
+        background-color: rgb(194, 194, 194);
+        background-size: cover;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20;
+    }
+   
+    .carrusel {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        
+    }
